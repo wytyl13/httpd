@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "socket.h": "c",
+        "inet.h": "c",
+        "fcntl.h": "c",
+        "stat.h": "c",
+        "strings.h": "c",
+        "dirent.h": "c"
+    }
+}
