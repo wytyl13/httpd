@@ -8,6 +8,9 @@
         "fcntl.h": "c",
         "stat.h": "c",
         "strings.h": "c",
-        "dirent.h": "c"
+        "dirent.h": "c",
+        "epoll.h": "c",
+        "types.h": "c",
+        "pthread.h": "c"
     }
 }

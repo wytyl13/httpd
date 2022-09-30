@@ -17,7 +17,6 @@
 #include <string.h>
 #include <ctype.h>
 #include <strings.h>
-#include <sys/stat.h>
 #include <fcntl.h>
 #include <errno.h>
 #include <sys/types.h>
